@@ -124,4 +124,4 @@ print(results$estimates)
   + A negative `alpha.beta` suggests that mediator contributes to decreased hazard (protective).
 
 # Reference
-Yao, Minhao, et al. "CoxMDS: Multiple Data Splitting for High-dimensional Mediation Analysis with Survival Outcomes in Epigenome-wide Studies." bioRxiv (2025): 2025-10. [(https://www.biorxiv.org/content/10.1101/2025.10.11.681836v2.full.pdf)](https://www.biorxiv.org/content/10.1101/2025.10.11.681836v2.full.pdf)
+Yao, Minhao, et al. "CoxMDS: Multiple Data Splitting for High-dimensional Mediation Analysis with Survival Outcomes in Epigenome-wide Studies." Briefings in Bioinfomatics (2026): 27(1). [(https://academic.oup.com/bib/article/27/1/bbaf730/8426111)](https://academic.oup.com/bib/article/27/1/bbaf730/8426111)
